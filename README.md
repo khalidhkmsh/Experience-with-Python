@@ -1,2 +1,2 @@
 # Experience-with-Python
-As  I try to learn python
+Let me share with you my skills gained from Programing with Python
