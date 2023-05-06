@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/issues</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/pulls</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/discussions</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/projects?query=is%3Aopen</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/security</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/main/AIMS_Programing_with_%20python_miscellaneous.ipynb</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/main/Khalid_Data%20Wrangling_with_Spark.ipynb</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/main/Khalid_Functions_in_python.ipynb</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/main/Khalid_kalman%20_filter_Data_Assimiltion.ipynb</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/main/Numerical_Analysis_finite_difference.ipynb</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/main/Parallellism_in_Python.py</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/main/README.md</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/main/Web_Scraping_muhamood_khalid_BDP21.ipynb</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/main/google692680f6f0114a8a.html</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/main/khalid_3D_Var_Data_Assimilation.ipynb</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/main/phase%20plot.ipynb</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/releases</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/labels</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/milestones</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/compare</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/discussions/1</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/discussions/categories/announcements</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/discussions/categories/general</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/discussions/categories/ideas</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/discussions/categories/polls</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/discussions/categories/q-a</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/discussions/categories/show-and-tell</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/caches</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/runs/4902898822</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/runs/4902888957</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/runs/4902391748</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/runs/4902359025</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/runs/4848755951</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/09f181de876ebb2dfcb2709d36661debd80c92ae/AIMS_Programing_with_%20python_miscellaneous.ipynb</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/find/main</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/login?return_to=https%3A%2F%2Fgithub.com%2Fkhalidhkmsh%2FExperience-with-Python%2Fdelete%2Fmain%2FAIMS_Programing_with_%2520python_miscellaneous.ipynb</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/09f181de876ebb2dfcb2709d36661debd80c92ae/Khalid_Data%20Wrangling_with_Spark.ipynb</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/main/Khalid_Data%20Wrangling_with_Spark.ipynb?short_path=136accb</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/09f181de876ebb2dfcb2709d36661debd80c92ae/Khalid_Functions_in_python.ipynb</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/main/Khalid_Functions_in_python.ipynb?short_path=70da8b5</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/09f181de876ebb2dfcb2709d36661debd80c92ae/Khalid_kalman%20_filter_Data_Assimiltion.ipynb</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/main/Khalid_kalman%20_filter_Data_Assimiltion.ipynb?short_path=682b4f3</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/09f181de876ebb2dfcb2709d36661debd80c92ae/Numerical_Analysis_finite_difference.ipynb</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/main/Numerical_Analysis_finite_difference.ipynb?short_path=a0034c1</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/09f181de876ebb2dfcb2709d36661debd80c92ae/Parallellism_in_Python.py</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/09f181de876ebb2dfcb2709d36661debd80c92ae/README.md</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/main/README.md?plain=1</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/09f181de876ebb2dfcb2709d36661debd80c92ae/Web_Scraping_muhamood_khalid_BDP21.ipynb</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/main/Web_Scraping_muhamood_khalid_BDP21.ipynb?short_path=94aef25</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/09f181de876ebb2dfcb2709d36661debd80c92ae/google692680f6f0114a8a.html</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/09f181de876ebb2dfcb2709d36661debd80c92ae/khalid_3D_Var_Data_Assimilation.ipynb</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/main/khalid_3D_Var_Data_Assimilation.ipynb?short_path=abbfe85</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/09f181de876ebb2dfcb2709d36661debd80c92ae/phase%20plot.ipynb</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/main/phase%20plot.ipynb?short_path=4f20627</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/labels?sort=name-asc</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/labels?sort=name-desc</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/labels?sort=count-desc</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/labels?sort=count-asc</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/labels/bug</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/labels/documentation</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/labels/duplicate</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/labels/enhancement</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/labels/good%20first%20issue</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/labels/help%20wanted</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/labels/invalid</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/labels/question</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/labels/wontfix</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/milestones?state=open</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/milestones?state=closed</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/discussions/1?sort=old</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/discussions/1?sort=new</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/discussions/1?sort=top</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/runs/4902898822/jobs/8755015250</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/runs/4902898822/jobs/8755018408</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/runs/4902898822/jobs/8755018359</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/runs/4902898822/usage</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/commit/09f181de876ebb2dfcb2709d36661debd80c92ae</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/runs/4902888957/jobs/8755001195</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/runs/4902888957/jobs/8755003681</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/runs/4902888957/jobs/8755003727</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/runs/4902888957/usage</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/commit/8e5478e69b9e76d9d206b4055d64b5ead4dc3675</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/runs/4902391748/jobs/8754199181</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/runs/4902391748/jobs/8754201682</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/runs/4902391748/jobs/8754201725</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/runs/4902391748/usage</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/commit/6c0730890725814a586da68399f870162273ab75</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/runs/4902359025/jobs/8754148034</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/runs/4902359025/jobs/8754152264</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/runs/4902359025/jobs/8754152310</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/runs/4902359025/usage</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/commit/9b6346d9ee7fd0373bb12291de12a8b8d4fc59eb</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/runs/4848755951/jobs/8640133677</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/runs/4848755951/jobs/8640139335</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/runs/4848755951/jobs/8640139385</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/actions/runs/4848755951/usage</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/commit/53040cf29e7468d033453037689a6de25c803d03</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/find/09f181de876ebb2dfcb2709d36661debd80c92ae</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/09f181de876ebb2dfcb2709d36661debd80c92ae/Khalid_Data%20Wrangling_with_Spark.ipynb?short_path=136accb</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/09f181de876ebb2dfcb2709d36661debd80c92ae/Khalid_Functions_in_python.ipynb?short_path=70da8b5</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/09f181de876ebb2dfcb2709d36661debd80c92ae/Khalid_kalman%20_filter_Data_Assimiltion.ipynb?short_path=682b4f3</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/09f181de876ebb2dfcb2709d36661debd80c92ae/Numerical_Analysis_finite_difference.ipynb?short_path=a0034c1</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/09f181de876ebb2dfcb2709d36661debd80c92ae/README.md?plain=1</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/09f181de876ebb2dfcb2709d36661debd80c92ae/Web_Scraping_muhamood_khalid_BDP21.ipynb?short_path=94aef25</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/09f181de876ebb2dfcb2709d36661debd80c92ae/khalid_3D_Var_Data_Assimilation.ipynb?short_path=abbfe85</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/blob/09f181de876ebb2dfcb2709d36661debd80c92ae/phase%20plot.ipynb?short_path=4f20627</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/commit/6600904b17e76a5b30d308da4729494148c5f856</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/commit/95c688db7f2373818cfa27eeb6be3ac9e85ebbc6</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/commit/6737d8bd7ca3765081feaa66d185111acf7085bf</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/commit/222911e053ce5cc4c9653e70968abdbe5fa24693</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/commit/44cc19c2b3f829d178437c6b3c9d533c73c42da5</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/commit/f81c3efc5496feadbdf08503cf4fa47e27659586</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/commit/3216f6c8349b4b6d831cd26128bfd127e379684f</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/commit/27308d730457834fe04c5d613d7ca29f234b23d9</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/commit/0b44526cdefc14ba9e2fcc1caf98fc1dbc51599e</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/commit/2a08642afcc75dfe20cfb56ad44fa6b3efe74dc0</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.05</priority>
+</url>
+<url>
+  <loc>https://github.com/khalidhkmsh/Experience-with-Python/commit/96fad0624b5a94562795061257df4e8108e6ba45</loc>
+  <lastmod>2023-05-06T18:12:12+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+
+
+</urlset>
